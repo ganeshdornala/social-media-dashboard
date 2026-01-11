@@ -1,16 +1,36 @@
-# React + Vite
+# 🌐 Social Media Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern React-based Social Media Dashboard that aggregates social activity into a single interactive interface.  
+Built with **React, Redux, Vite, Tailwind CSS**, and Context API.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 📰 Live Post Feed
+- ❤️ Like & Comment System
+- 👤 Follow / Unfollow Users
+- 🌓 Light / Dark Theme Toggle
+- 🔐 Simple Authentication Context
+- 📊 User Profile with To-Do Goals
+- ⚡ Fast Vite Build System
 
-## React Compiler
+## 🛠 Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- Redux
+- Tailwind CSS
+- Vite
+- Context API
+- React Router
 
-## Expanding the ESLint configuration
+## 📦 Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+git clone https://github.com/<your-username>/social-media-dashboard.git
+cd social-media-dashboard
+npm install
+npm run dev
+
+
+## 📦 Deployed Link
+
+"https://ganeshdornala.github.io/social-media-dashboard/"
